@@ -1,6 +1,6 @@
 import style from './style.css'
 import sass from './scss/main.scss'
-import logo from './img/webpack-logo.svg'
+import logo from './img/js-logo.png'
 import data from './data.json'
 import { suma } from './suma'
 
@@ -16,11 +16,10 @@ const d = document,
   h1 = d.createElement('h1'),
   img = d.createElement('img')
 
-h1.textContent = 'Hola Mundo con Webpack }:)'
+h1.textContent = 'Hola Mundo con Webpack otro punto de entrada }:)'
 img.src = logo
 
 app.appendChild(h1)
 app.appendChild(img)
 
 console.log(data)
-
