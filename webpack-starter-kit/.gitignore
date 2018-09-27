@@ -1,9 +1,6 @@
 
 # Created by https://www.gitignore.io/api/osx,node,macos,linux,windows,visualstudiocode
 
-###  package.json original de JhonMircha ###
-package.1.json
-
 ### Linux ###
 *~
 

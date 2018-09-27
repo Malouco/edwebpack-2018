@@ -1,9 +1,3 @@
-# Actualización de package.json para usar @babel-core 7
-* ## Modificado el package.json
-* ## Cambio de nombre a .babelrc , para que no funcione. igual está modificado como pide la documentación
-* ## Agrego una foto de todos los paquetes npm que tengo instalado de forma global. 'list-npm.png'
-* ## TODO EL RESTO ES IGUAL AL ORIGINAL
-
 # Repositorio del curso Webpack para Web de EDteam 2018 impartido por @jonmircha
 
 [Ir al Curso](https://ed.team/cursos/webpack)
